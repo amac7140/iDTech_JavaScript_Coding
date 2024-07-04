@@ -7,6 +7,7 @@ let title = "cashier"
 // TODO: Create 3-Number variables to set the time period of your story or discuss other number elements.
 // YOUR CODE GOES HERE
 let age = 18
+//hi
 let height = 53
 let year = 2024
 // TODO: Create 1-Array variable to show a collection of items your character might have.
